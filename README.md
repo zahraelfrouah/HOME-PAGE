@@ -1,3 +1,3 @@
-# home-design-2
+# HOME PAGE 
 
-it's a homme page creat with HTML & CSS
+it's a home page creat with HTML & CSS
